@@ -1,0 +1,4438 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2026-07-07T07:47:53.467Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "5",
+        "object_repr": "New User (newuser)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2026-07-07T12:45:38.708Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "6",
+        "object_repr": "Mustafa Pithewan (Mustafa_odt)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2026-07-08T10:28:35.346Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "12",
+        "object_repr": "Yash Bhandari (byash7074)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2026-07-08T10:28:35.346Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "John Doe (employee)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2026-07-08T10:28:35.346Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "Test User (testuser)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2026-07-08T10:28:35.346Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "8",
+        "object_repr": "Test User (testuser_1783425522)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2026-07-08T10:28:35.346Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "9",
+        "object_repr": "Test User (testuser_1783425576)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2026-07-08T10:28:35.346Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "10",
+        "object_repr": "Test User (testuser_1783425649)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2026-07-08T10:28:35.346Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "11",
+        "object_repr": "Test User (testuser_1783425971)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cyp8bx81oj2atwlftxan45ako78bu9z5",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyELC6316L3fQHZZKlVDk9KejP-uJD3oZQ7z3sxLBdq3HPaa1jCLuiijTr8dU3yk0oDcqdwWHZeyrTPrpuiDVj0ukp7Xw_07yFTzd82Re5dsZA8eoHPcG_TTkKIBEYcEjiQhCk5mcNCdrUWElk6iBSb1_gDcBDc_:1whSLL:5EisqHsssEgebpIkLbnslXIX6cKLnW3jjgg-2zFrJ-k",
+        "expire_date": "2026-07-22T13:29:39.795Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "hdapr5kn83qr3x973s4o97gdm1a6luh9",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyELC6316L3fQHZZKlVDk9KejP-uJD3oZQ7z3sxLBdq3HPaa1jCLuiijTr8dU3yk0oDcqdwWHZeyrTPrpuiDVj0ukp7Xw_07yFTzd82Re5dsZA8eoHPcG_TTkKIBEYcEjiQhCk5mcNCdrUWElk6iBSb1_gDcBDc_:1wh39T:J6fkaOEavzDbRJCa8SaKt02BuwDFk22o3n3OOPR6lB0",
+        "expire_date": "2026-07-21T10:35:43.993Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jnnmd4xzef65gh3diy9thbx4cgq5u6u6",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyELC6316L3fQHZZKlVDk9KejP-uJD3oZQ7z3sxLBdq3HPaa1jCLuiijTr8dU3yk0oDcqdwWHZeyrTPrpuiDVj0ukp7Xw_07yFTzd82Re5dsZA8eoHPcG_TTkKIBEYcEjiQhCk5mcNCdrUWElk6iBSb1_gDcBDc_:1wh0eD:j_CgQZtZLu9MKtWdWpfoIakyJlTLi_UvC7-__MSpJ9c",
+        "expire_date": "2026-07-21T07:55:17.406Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "k7w9yd94wsw476lpajsv7z7exxito9t7",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyELC6316L3fQHZZKlVDk9KejP-uJD3oZQ7z3sxLBdq3HPaa1jCLuiijTr8dU3yk0oDcqdwWHZeyrTPrpuiDVj0ukp7Xw_07yFTzd82Re5dsZA8eoHPcG_TTkKIBEYcEjiQhCk5mcNCdrUWElk6iBSb1_gDcBDc_:1whXql:rxG5x1_FR2kgif5siiDpNBqaplKxtLeXt1uCNiLqNHQ",
+        "expire_date": "2026-07-22T19:22:27.423Z"
+    }
+},
+{
+    "model": "core.employee",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$8Aeq4dfGVUHqRdDwemJx3y$vjpWiMHm0ipOL3lg2EWPeFM6BJQqkdTpVn2IhcqWMdU=",
+        "last_login": "2026-07-08T19:22:27.324Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "Jain",
+        "last_name": "Admin",
+        "email": "admin@example.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-07-03T13:10:25.733Z",
+        "number": "9826012345",
+        "inserted_on": "2026-07-03T13:10:25.734Z",
+        "updated_on": "2026-07-03T13:49:09.295Z",
+        "is_deleted": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "core.employee",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$9vEI5y7bZmhHiJI1jy7ozP$ZT8yHDiUuSi/EBD+NsKiUKYbh/tzIdfkf7EnjF2z/sI=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "teamlead",
+        "first_name": "Sarah",
+        "last_name": "Connor",
+        "email": "teamlead@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-03T13:10:27.409Z",
+        "number": "8888888888",
+        "inserted_on": "2026-07-03T13:10:27.409Z",
+        "updated_on": "2026-07-03T13:10:28.259Z",
+        "is_deleted": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "core.employee",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$lRXeWSIqAK94w9JhU6pCvb$jp3jgGDzZxnnBKVyu9v3yho/CzO3Z6mOHilVn+zO7C0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Mustafa_odt",
+        "first_name": "Mustafa",
+        "last_name": "Pithewan",
+        "email": "Mustafa.Pithewan@orangedatatech.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-07T07:27:23Z",
+        "number": "8839976986",
+        "inserted_on": "2026-07-07T07:27:23.606Z",
+        "updated_on": "2026-07-07T12:45:38.699Z",
+        "is_deleted": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "core.employee",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$WRLSU1wPnX0UadVPb9CmiE$9RJ6g9c75aYTLrpaB5HyH7lCGZYClhGb5RJLwuUreKA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "arcane_007",
+        "first_name": "shashank",
+        "last_name": "Chhoker",
+        "email": "shashanksaad89@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-07T10:33:53.361Z",
+        "number": "9755115112",
+        "inserted_on": "2026-07-07T10:33:53.380Z",
+        "updated_on": "2026-07-07T10:33:57.266Z",
+        "is_deleted": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "core.employee",
+    "pk": 13,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$x7eZcppDGaS98Iw1ohAtFq$GVHydbmSvAGhPfQ4t7CKMi7e3y+AiND326b4orRwtds=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "yash_odt",
+        "first_name": "Yash",
+        "last_name": "Jain",
+        "email": "byash7074@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-08T13:24:24.478Z",
+        "number": "9691017110",
+        "inserted_on": "2026-07-08T13:24:24.478Z",
+        "updated_on": "2026-07-08T13:24:27.256Z",
+        "is_deleted": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "core.employee",
+    "pk": 14,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$OMS9C4K7rmmc3qcCDzDrTG$6LJ3paa3o3EAlAtvrI7VYJ+peerE/tnL3hyqe2DgPeY=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Gaurav_royal",
+        "first_name": "Gaurav",
+        "last_name": "yadav",
+        "email": "gaurav.yadav@orangedatatech.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-09T08:26:45.124Z",
+        "number": "9301738861",
+        "inserted_on": "2026-07-09T08:26:45.124Z",
+        "updated_on": "2026-07-09T08:26:46.157Z",
+        "is_deleted": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "core.client",
+    "pk": 1,
+    "fields": {
+        "name": "Acme Corporation",
+        "inserted_on": "2026-07-03T13:10:26.809Z",
+        "updated_on": "2026-07-03T13:10:26.809Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.client",
+    "pk": 2,
+    "fields": {
+        "name": "Globex Corporation",
+        "inserted_on": "2026-07-03T13:10:26.935Z",
+        "updated_on": "2026-07-03T13:10:26.935Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.client",
+    "pk": 3,
+    "fields": {
+        "name": "BMK",
+        "inserted_on": "2026-07-07T07:35:29.787Z",
+        "updated_on": "2026-07-07T07:35:29.787Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.client",
+    "pk": 4,
+    "fields": {
+        "name": "EngagePEO",
+        "inserted_on": "2026-07-08T09:24:08.639Z",
+        "updated_on": "2026-07-08T09:24:08.640Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.client",
+    "pk": 5,
+    "fields": {
+        "name": "Enru",
+        "inserted_on": "2026-07-08T09:29:52.806Z",
+        "updated_on": "2026-07-08T09:29:52.806Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.project",
+    "pk": 1,
+    "fields": {
+        "client": 1,
+        "name": "Website Redesign",
+        "code": "ACME-WEB",
+        "description": null,
+        "is_active": true,
+        "inserted_on": "2026-07-03T13:10:27.043Z",
+        "updated_on": "2026-07-03T13:10:27.043Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.project",
+    "pk": 2,
+    "fields": {
+        "client": 1,
+        "name": "Mobile App Development",
+        "code": "ACME-APP",
+        "description": null,
+        "is_active": true,
+        "inserted_on": "2026-07-03T13:10:27.162Z",
+        "updated_on": "2026-07-03T13:10:27.162Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.project",
+    "pk": 3,
+    "fields": {
+        "client": 2,
+        "name": "SEO Optimization",
+        "code": "GLOB-SEO",
+        "description": null,
+        "is_active": true,
+        "inserted_on": "2026-07-03T13:10:27.290Z",
+        "updated_on": "2026-07-03T13:10:27.290Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.project",
+    "pk": 4,
+    "fields": {
+        "client": 3,
+        "name": "Triumph",
+        "code": "T",
+        "description": "",
+        "is_active": true,
+        "inserted_on": "2026-07-07T07:39:28.643Z",
+        "updated_on": "2026-07-09T07:32:01.234Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": 1
+    }
+},
+{
+    "model": "core.project",
+    "pk": 5,
+    "fields": {
+        "client": 5,
+        "name": "EDW 2.0",
+        "code": "EDW",
+        "description": "",
+        "is_active": true,
+        "inserted_on": "2026-07-08T09:31:08.048Z",
+        "updated_on": "2026-07-08T18:54:31.362Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": 1
+    }
+},
+{
+    "model": "core.project",
+    "pk": 6,
+    "fields": {
+        "client": 5,
+        "name": "ETM Integration",
+        "code": "ETM",
+        "description": "",
+        "is_active": true,
+        "inserted_on": "2026-07-08T09:33:09.282Z",
+        "updated_on": "2026-07-08T18:54:42.580Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": 1
+    }
+},
+{
+    "model": "core.project",
+    "pk": 7,
+    "fields": {
+        "client": 3,
+        "name": "Atlas",
+        "code": "ATLAS-A",
+        "description": "",
+        "is_active": true,
+        "inserted_on": "2026-07-08T18:54:15.062Z",
+        "updated_on": "2026-07-08T18:54:15.062Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.project",
+    "pk": 8,
+    "fields": {
+        "client": 4,
+        "name": "EngagePEO",
+        "code": "UTILITY",
+        "description": "",
+        "is_active": true,
+        "inserted_on": "2026-07-09T08:20:29.379Z",
+        "updated_on": "2026-07-09T08:20:29.396Z",
+        "is_deleted": false,
+        "inserted_by": 2,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 1,
+    "fields": {
+        "employee": 2,
+        "client": 1,
+        "role": "team_lead",
+        "added_by": 1,
+        "inserted_on": "2026-07-03T13:10:28.378Z",
+        "updated_on": "2026-07-03T13:10:28.378Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 3,
+    "fields": {
+        "employee": 6,
+        "client": 3,
+        "role": "employee",
+        "added_by": 1,
+        "inserted_on": "2026-07-07T07:35:56.723Z",
+        "updated_on": "2026-07-07T07:35:56.724Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 4,
+    "fields": {
+        "employee": 2,
+        "client": 3,
+        "role": "team_lead",
+        "added_by": 1,
+        "inserted_on": "2026-07-07T08:00:24.586Z",
+        "updated_on": "2026-07-07T08:00:24.586Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 5,
+    "fields": {
+        "employee": 7,
+        "client": 3,
+        "role": "team_lead",
+        "added_by": 1,
+        "inserted_on": "2026-07-07T10:37:50.783Z",
+        "updated_on": "2026-07-07T10:37:50.783Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 6,
+    "fields": {
+        "employee": 7,
+        "client": 5,
+        "role": "employee",
+        "added_by": 1,
+        "inserted_on": "2026-07-08T09:32:37.926Z",
+        "updated_on": "2026-07-08T09:32:37.926Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 7,
+    "fields": {
+        "employee": 6,
+        "client": 5,
+        "role": "employee",
+        "added_by": 1,
+        "inserted_on": "2026-07-08T10:45:10.211Z",
+        "updated_on": "2026-07-08T10:45:10.213Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 8,
+    "fields": {
+        "employee": 7,
+        "client": 4,
+        "role": "employee",
+        "added_by": 1,
+        "inserted_on": "2026-07-08T13:19:01.016Z",
+        "updated_on": "2026-07-08T13:19:01.016Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 9,
+    "fields": {
+        "employee": 13,
+        "client": 5,
+        "role": "employee",
+        "added_by": 1,
+        "inserted_on": "2026-07-08T13:26:34.836Z",
+        "updated_on": "2026-07-08T13:26:34.836Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 10,
+    "fields": {
+        "employee": 13,
+        "client": 3,
+        "role": "employee",
+        "added_by": 1,
+        "inserted_on": "2026-07-08T18:55:02.956Z",
+        "updated_on": "2026-07-08T18:55:02.956Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 11,
+    "fields": {
+        "employee": 13,
+        "client": 1,
+        "role": "employee",
+        "added_by": 2,
+        "inserted_on": "2026-07-08T19:00:14.457Z",
+        "updated_on": "2026-07-08T19:00:14.457Z",
+        "is_deleted": false,
+        "inserted_by": 2,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 12,
+    "fields": {
+        "employee": 2,
+        "client": 4,
+        "role": "team_lead",
+        "added_by": 1,
+        "inserted_on": "2026-07-09T07:50:17.885Z",
+        "updated_on": "2026-07-09T07:50:17.885Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 13,
+    "fields": {
+        "employee": 6,
+        "client": 4,
+        "role": "employee",
+        "added_by": 2,
+        "inserted_on": "2026-07-09T08:20:48.929Z",
+        "updated_on": "2026-07-09T08:20:48.929Z",
+        "is_deleted": false,
+        "inserted_by": 2,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.clientemployee",
+    "pk": 14,
+    "fields": {
+        "employee": 14,
+        "client": 5,
+        "role": "employee",
+        "added_by": 1,
+        "inserted_on": "2026-07-09T09:21:36.123Z",
+        "updated_on": "2026-07-09T09:21:36.123Z",
+        "is_deleted": false,
+        "inserted_by": 1,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 3,
+    "fields": {
+        "employee": 2,
+        "client": 1,
+        "date": "2026-06-30",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 6,
+        "status": "present",
+        "description": "Worked on etl",
+        "total_hours": "0.00",
+        "inserted_on": "2026-07-03T13:50:44.381Z",
+        "updated_on": "2026-07-03T13:50:44.381Z",
+        "is_deleted": false,
+        "inserted_by": 2,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 4,
+    "fields": {
+        "employee": 6,
+        "client": 3,
+        "date": "2026-07-07",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "Production work Completed",
+        "total_hours": "2.00",
+        "inserted_on": "2026-07-07T07:46:19.063Z",
+        "updated_on": "2026-07-08T12:42:51.470Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 5,
+    "fields": {
+        "employee": 7,
+        "client": 3,
+        "date": "2026-06-30",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 6,
+        "status": "leave",
+        "description": "I am on Leave !",
+        "total_hours": "0.00",
+        "inserted_on": "2026-07-07T10:40:13.601Z",
+        "updated_on": "2026-07-07T10:40:13.601Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 6,
+    "fields": {
+        "employee": 6,
+        "client": 5,
+        "date": "2026-06-30",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 6,
+        "status": "present",
+        "description": "Completed my taskcenconrb",
+        "total_hours": "7.00",
+        "inserted_on": "2026-07-08T10:59:29.061Z",
+        "updated_on": "2026-07-08T12:43:31.439Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 7,
+    "fields": {
+        "employee": 7,
+        "client": 5,
+        "date": "2026-06-30",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 6,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "9.00",
+        "inserted_on": "2026-07-08T12:38:34.787Z",
+        "updated_on": "2026-07-08T13:06:55.606Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 8,
+    "fields": {
+        "employee": 7,
+        "client": 5,
+        "date": "2026-07-01",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "6.00",
+        "inserted_on": "2026-07-08T12:38:36.404Z",
+        "updated_on": "2026-07-08T13:06:54.426Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 9,
+    "fields": {
+        "employee": 7,
+        "client": 5,
+        "date": "2026-07-02",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "6.00",
+        "inserted_on": "2026-07-08T12:38:37.301Z",
+        "updated_on": "2026-07-08T13:06:53.107Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 10,
+    "fields": {
+        "employee": 7,
+        "client": 5,
+        "date": "2026-07-05",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "8.00",
+        "inserted_on": "2026-07-08T12:38:44.714Z",
+        "updated_on": "2026-07-08T13:07:02.015Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 11,
+    "fields": {
+        "employee": 7,
+        "client": 5,
+        "date": "2026-07-06",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "8.00",
+        "inserted_on": "2026-07-08T12:38:46.751Z",
+        "updated_on": "2026-07-08T13:07:06.544Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 12,
+    "fields": {
+        "employee": 7,
+        "client": 5,
+        "date": "2026-07-07",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "6.00",
+        "inserted_on": "2026-07-08T12:38:48.793Z",
+        "updated_on": "2026-07-08T13:07:12.562Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 13,
+    "fields": {
+        "employee": 7,
+        "client": 5,
+        "date": "2026-07-08",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "8.00",
+        "inserted_on": "2026-07-08T12:38:55.338Z",
+        "updated_on": "2026-07-08T13:07:18.396Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 14,
+    "fields": {
+        "employee": 7,
+        "client": 3,
+        "date": "2026-07-05",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Made the workspace",
+        "total_hours": "3.50",
+        "inserted_on": "2026-07-08T12:39:28.327Z",
+        "updated_on": "2026-07-08T12:44:05.455Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 15,
+    "fields": {
+        "employee": 7,
+        "client": 3,
+        "date": "2026-07-02",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Made the pipeline",
+        "total_hours": "4.00",
+        "inserted_on": "2026-07-08T12:39:29.390Z",
+        "updated_on": "2026-07-08T12:44:06.912Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 16,
+    "fields": {
+        "employee": 7,
+        "client": 3,
+        "date": "2026-07-01",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "5.00",
+        "inserted_on": "2026-07-08T12:39:30.240Z",
+        "updated_on": "2026-07-08T12:44:08.059Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 17,
+    "fields": {
+        "employee": 6,
+        "client": 3,
+        "date": "2026-07-01",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "I made the pipeline",
+        "total_hours": "5.00",
+        "inserted_on": "2026-07-08T12:41:12.501Z",
+        "updated_on": "2026-07-08T12:42:45.654Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 18,
+    "fields": {
+        "employee": 6,
+        "client": 3,
+        "date": "2026-07-02",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Ran the pipeline",
+        "total_hours": "4.00",
+        "inserted_on": "2026-07-08T12:41:13.590Z",
+        "updated_on": "2026-07-08T12:42:46.676Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 19,
+    "fields": {
+        "employee": 6,
+        "client": 3,
+        "date": "2026-06-30",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 6,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "0.00",
+        "inserted_on": "2026-07-08T12:41:14.677Z",
+        "updated_on": "2026-07-08T12:41:14.677Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 20,
+    "fields": {
+        "employee": 6,
+        "client": 3,
+        "date": "2026-07-05",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Pipeline is ready",
+        "total_hours": "3.00",
+        "inserted_on": "2026-07-08T12:41:16.495Z",
+        "updated_on": "2026-07-08T12:42:48.612Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 21,
+    "fields": {
+        "employee": 6,
+        "client": 5,
+        "date": "2026-07-05",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "ABX",
+        "total_hours": "6.00",
+        "inserted_on": "2026-07-08T12:43:27.174Z",
+        "updated_on": "2026-07-08T12:43:27.174Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 22,
+    "fields": {
+        "employee": 6,
+        "client": 5,
+        "date": "2026-07-02",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "XYz",
+        "total_hours": "6.00",
+        "inserted_on": "2026-07-08T12:43:28.874Z",
+        "updated_on": "2026-07-08T12:43:28.874Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 23,
+    "fields": {
+        "employee": 6,
+        "client": 5,
+        "date": "2026-07-01",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Run the pipeline",
+        "total_hours": "9.00",
+        "inserted_on": "2026-07-08T12:43:29.864Z",
+        "updated_on": "2026-07-08T12:43:29.864Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 24,
+    "fields": {
+        "employee": 7,
+        "client": 3,
+        "date": "2026-07-06",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed the sql Queries",
+        "total_hours": "3.00",
+        "inserted_on": "2026-07-08T12:44:04.291Z",
+        "updated_on": "2026-07-08T12:44:27.648Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 25,
+    "fields": {
+        "employee": 13,
+        "client": 3,
+        "date": "2026-07-08",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed the view and ran the pipeline",
+        "total_hours": "8.00",
+        "inserted_on": "2026-07-08T18:56:15.929Z",
+        "updated_on": "2026-07-08T18:56:15.929Z",
+        "is_deleted": false,
+        "inserted_by": 13,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 26,
+    "fields": {
+        "employee": 13,
+        "client": 1,
+        "date": "2026-06-30",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 6,
+        "status": "present",
+        "description": "Completed Requirement of the sp",
+        "total_hours": "8.00",
+        "inserted_on": "2026-07-08T19:01:25.734Z",
+        "updated_on": "2026-07-08T19:01:25.734Z",
+        "is_deleted": false,
+        "inserted_by": 13,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 27,
+    "fields": {
+        "employee": 13,
+        "client": 1,
+        "date": "2026-07-08",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed the task",
+        "total_hours": "8.00",
+        "inserted_on": "2026-07-08T19:02:53.243Z",
+        "updated_on": "2026-07-08T19:02:53.245Z",
+        "is_deleted": false,
+        "inserted_by": 13,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 28,
+    "fields": {
+        "employee": 6,
+        "client": 4,
+        "date": "2026-07-01",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed The Utility task",
+        "total_hours": "5.00",
+        "inserted_on": "2026-07-09T08:21:31.224Z",
+        "updated_on": "2026-07-09T08:21:31.224Z",
+        "is_deleted": false,
+        "inserted_by": 6,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 29,
+    "fields": {
+        "employee": 14,
+        "client": 5,
+        "date": "2026-07-01",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "8.00",
+        "inserted_on": "2026-07-09T09:22:37.401Z",
+        "updated_on": "2026-07-09T09:22:37.401Z",
+        "is_deleted": false,
+        "inserted_by": 14,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 30,
+    "fields": {
+        "employee": 13,
+        "client": 5,
+        "date": "2026-07-01",
+        "year": 2026,
+        "week_number": 27,
+        "month_number": 7,
+        "status": "present",
+        "description": "",
+        "total_hours": "0.00",
+        "inserted_on": "2026-07-09T09:36:51.143Z",
+        "updated_on": "2026-07-09T09:36:51.143Z",
+        "is_deleted": false,
+        "inserted_by": 13,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 31,
+    "fields": {
+        "employee": 14,
+        "client": 5,
+        "date": "2026-07-09",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "Completed my task",
+        "total_hours": "8.00",
+        "inserted_on": "2026-07-09T10:00:20.791Z",
+        "updated_on": "2026-07-09T10:12:22.457Z",
+        "is_deleted": false,
+        "inserted_by": 14,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 32,
+    "fields": {
+        "employee": 7,
+        "client": 3,
+        "date": "2026-07-07",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "present",
+        "description": "",
+        "total_hours": "0.00",
+        "inserted_on": "2026-07-09T10:31:29.150Z",
+        "updated_on": "2026-07-09T10:31:41.726Z",
+        "is_deleted": false,
+        "inserted_by": 7,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.timesheetentry",
+    "pk": 33,
+    "fields": {
+        "employee": 2,
+        "client": 1,
+        "date": "2026-07-09",
+        "year": 2026,
+        "week_number": 28,
+        "month_number": 7,
+        "status": "holiday",
+        "description": "",
+        "total_hours": "0.00",
+        "inserted_on": "2026-07-09T10:43:50.995Z",
+        "updated_on": "2026-07-09T10:44:09.377Z",
+        "is_deleted": false,
+        "inserted_by": 2,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 10,
+    "fields": {
+        "entry": 17,
+        "project": 4,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T12:42:45.116Z",
+        "updated_on": "2026-07-08T12:42:45.116Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 11,
+    "fields": {
+        "entry": 18,
+        "project": 4,
+        "hours": "4.00",
+        "inserted_on": "2026-07-08T12:42:46.557Z",
+        "updated_on": "2026-07-08T12:42:46.557Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 12,
+    "fields": {
+        "entry": 20,
+        "project": 4,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T12:42:48.484Z",
+        "updated_on": "2026-07-08T12:42:48.484Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 13,
+    "fields": {
+        "entry": 4,
+        "project": 4,
+        "hours": "2.00",
+        "inserted_on": "2026-07-08T12:42:51.353Z",
+        "updated_on": "2026-07-08T12:42:51.354Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 14,
+    "fields": {
+        "entry": 21,
+        "project": 5,
+        "hours": "2.00",
+        "inserted_on": "2026-07-08T12:43:27.673Z",
+        "updated_on": "2026-07-08T12:43:27.673Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 15,
+    "fields": {
+        "entry": 21,
+        "project": 6,
+        "hours": "4.00",
+        "inserted_on": "2026-07-08T12:43:27.830Z",
+        "updated_on": "2026-07-08T12:43:27.830Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 16,
+    "fields": {
+        "entry": 22,
+        "project": 5,
+        "hours": "4.00",
+        "inserted_on": "2026-07-08T12:43:29.001Z",
+        "updated_on": "2026-07-08T12:43:29.001Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 17,
+    "fields": {
+        "entry": 22,
+        "project": 6,
+        "hours": "2.00",
+        "inserted_on": "2026-07-08T12:43:29.109Z",
+        "updated_on": "2026-07-08T12:43:29.109Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 18,
+    "fields": {
+        "entry": 23,
+        "project": 5,
+        "hours": "4.00",
+        "inserted_on": "2026-07-08T12:43:29.991Z",
+        "updated_on": "2026-07-08T12:43:29.991Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 19,
+    "fields": {
+        "entry": 23,
+        "project": 6,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T12:43:30.119Z",
+        "updated_on": "2026-07-08T12:43:30.119Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 20,
+    "fields": {
+        "entry": 6,
+        "project": 5,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T12:43:31.177Z",
+        "updated_on": "2026-07-08T12:43:31.177Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 21,
+    "fields": {
+        "entry": 6,
+        "project": 6,
+        "hours": "4.00",
+        "inserted_on": "2026-07-08T12:43:31.283Z",
+        "updated_on": "2026-07-08T12:43:31.283Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 23,
+    "fields": {
+        "entry": 14,
+        "project": 4,
+        "hours": "3.50",
+        "inserted_on": "2026-07-08T12:44:05.326Z",
+        "updated_on": "2026-07-08T12:44:05.327Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 24,
+    "fields": {
+        "entry": 15,
+        "project": 4,
+        "hours": "4.00",
+        "inserted_on": "2026-07-08T12:44:06.824Z",
+        "updated_on": "2026-07-08T12:44:06.824Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 25,
+    "fields": {
+        "entry": 16,
+        "project": 4,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T12:44:07.949Z",
+        "updated_on": "2026-07-08T12:44:07.949Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 26,
+    "fields": {
+        "entry": 24,
+        "project": 4,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T12:44:27.491Z",
+        "updated_on": "2026-07-08T12:44:27.491Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 27,
+    "fields": {
+        "entry": 9,
+        "project": 5,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T13:06:52.432Z",
+        "updated_on": "2026-07-08T13:06:52.435Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 28,
+    "fields": {
+        "entry": 9,
+        "project": 6,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T13:06:52.962Z",
+        "updated_on": "2026-07-08T13:06:52.962Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 29,
+    "fields": {
+        "entry": 8,
+        "project": 5,
+        "hours": "2.00",
+        "inserted_on": "2026-07-08T13:06:54.155Z",
+        "updated_on": "2026-07-08T13:06:54.155Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 30,
+    "fields": {
+        "entry": 8,
+        "project": 6,
+        "hours": "4.00",
+        "inserted_on": "2026-07-08T13:06:54.303Z",
+        "updated_on": "2026-07-08T13:06:54.303Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 31,
+    "fields": {
+        "entry": 7,
+        "project": 5,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T13:06:55.373Z",
+        "updated_on": "2026-07-08T13:06:55.373Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 32,
+    "fields": {
+        "entry": 7,
+        "project": 6,
+        "hours": "4.00",
+        "inserted_on": "2026-07-08T13:06:55.484Z",
+        "updated_on": "2026-07-08T13:06:55.484Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 33,
+    "fields": {
+        "entry": 10,
+        "project": 5,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T13:07:01.341Z",
+        "updated_on": "2026-07-08T13:07:01.341Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 34,
+    "fields": {
+        "entry": 10,
+        "project": 6,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T13:07:01.856Z",
+        "updated_on": "2026-07-08T13:07:01.856Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 35,
+    "fields": {
+        "entry": 11,
+        "project": 5,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T13:07:06.227Z",
+        "updated_on": "2026-07-08T13:07:06.227Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 36,
+    "fields": {
+        "entry": 11,
+        "project": 6,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T13:07:06.427Z",
+        "updated_on": "2026-07-08T13:07:06.427Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 37,
+    "fields": {
+        "entry": 12,
+        "project": 5,
+        "hours": "6.00",
+        "inserted_on": "2026-07-08T13:07:12.013Z",
+        "updated_on": "2026-07-08T13:07:12.013Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 38,
+    "fields": {
+        "entry": 13,
+        "project": 5,
+        "hours": "2.00",
+        "inserted_on": "2026-07-08T13:07:18.113Z",
+        "updated_on": "2026-07-08T13:07:18.113Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 39,
+    "fields": {
+        "entry": 13,
+        "project": 6,
+        "hours": "6.00",
+        "inserted_on": "2026-07-08T13:07:18.266Z",
+        "updated_on": "2026-07-08T13:07:18.266Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 40,
+    "fields": {
+        "entry": 25,
+        "project": 4,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T18:56:16.377Z",
+        "updated_on": "2026-07-08T18:56:16.377Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 41,
+    "fields": {
+        "entry": 25,
+        "project": 7,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T18:56:16.493Z",
+        "updated_on": "2026-07-08T18:56:16.493Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 42,
+    "fields": {
+        "entry": 26,
+        "project": 2,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T19:01:26.206Z",
+        "updated_on": "2026-07-08T19:01:26.206Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 43,
+    "fields": {
+        "entry": 26,
+        "project": 1,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T19:01:26.364Z",
+        "updated_on": "2026-07-08T19:01:26.364Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 44,
+    "fields": {
+        "entry": 27,
+        "project": 2,
+        "hours": "5.00",
+        "inserted_on": "2026-07-08T19:02:53.719Z",
+        "updated_on": "2026-07-08T19:02:53.719Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 45,
+    "fields": {
+        "entry": 27,
+        "project": 1,
+        "hours": "3.00",
+        "inserted_on": "2026-07-08T19:02:53.863Z",
+        "updated_on": "2026-07-08T19:02:53.863Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 46,
+    "fields": {
+        "entry": 28,
+        "project": 8,
+        "hours": "5.00",
+        "inserted_on": "2026-07-09T08:21:31.764Z",
+        "updated_on": "2026-07-09T08:21:31.764Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 47,
+    "fields": {
+        "entry": 29,
+        "project": 5,
+        "hours": "5.00",
+        "inserted_on": "2026-07-09T09:22:37.961Z",
+        "updated_on": "2026-07-09T09:22:37.961Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 48,
+    "fields": {
+        "entry": 29,
+        "project": 6,
+        "hours": "3.00",
+        "inserted_on": "2026-07-09T09:22:38.107Z",
+        "updated_on": "2026-07-09T09:22:38.107Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 50,
+    "fields": {
+        "entry": 31,
+        "project": 5,
+        "hours": "3.00",
+        "inserted_on": "2026-07-09T10:12:22.212Z",
+        "updated_on": "2026-07-09T10:12:22.212Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.projecthours",
+    "pk": 51,
+    "fields": {
+        "entry": 31,
+        "project": 6,
+        "hours": "5.00",
+        "inserted_on": "2026-07-09T10:12:22.328Z",
+        "updated_on": "2026-07-09T10:12:22.328Z",
+        "is_deleted": false,
+        "inserted_by": null,
+        "updated_by": null
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 1,
+    "fields": {
+        "employee": null,
+        "table_name": "TimesheetEntry",
+        "record_id": 1,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 1,
+            "employee": 3,
+            "client": 1,
+            "date": "2026-07-03",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "leave",
+            "description": "Writing codes",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 3,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-03T13:33:16.173Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 2,
+    "fields": {
+        "employee": null,
+        "table_name": "TimesheetEntry",
+        "record_id": 2,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 2,
+            "employee": 3,
+            "client": 1,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "leave",
+            "description": "",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 3,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-03T13:40:14.208Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 3,
+    "fields": {
+        "employee": 1,
+        "table_name": "Employee",
+        "record_id": 1,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 1,
+            "password": "pbkdf2_sha256$1200000$8Aeq4dfGVUHqRdDwemJx3y$vjpWiMHm0ipOL3lg2EWPeFM6BJQqkdTpVn2IhcqWMdU=",
+            "last_login": null,
+            "is_superuser": true,
+            "username": "admin",
+            "first_name": "System",
+            "last_name": "Admin",
+            "email": "admin@example.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2026-07-03T13:10:25.733731+00:00",
+            "number": "9999999999",
+            "is_deleted": false,
+            "groups": "[]",
+            "user_permissions": "[]"
+        },
+        "new_data": {
+            "id": 1,
+            "password": "pbkdf2_sha256$1200000$8Aeq4dfGVUHqRdDwemJx3y$vjpWiMHm0ipOL3lg2EWPeFM6BJQqkdTpVn2IhcqWMdU=",
+            "last_login": null,
+            "is_superuser": true,
+            "username": "admin",
+            "first_name": "Jain",
+            "last_name": "Admin",
+            "email": "admin@example.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2026-07-03T13:10:25.733731+00:00",
+            "number": "9826012345",
+            "is_deleted": false,
+            "groups": "[]",
+            "user_permissions": "[]"
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-03T13:49:09.911Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 4,
+    "fields": {
+        "employee": 2,
+        "table_name": "TimesheetEntry",
+        "record_id": 3,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 3,
+            "employee": 2,
+            "client": 1,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Worked on etl",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-03T13:50:44.877Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 5,
+    "fields": {
+        "employee": null,
+        "table_name": "Employee",
+        "record_id": 3,
+        "action_type": "PASSWORD_RESET",
+        "old_data": null,
+        "new_data": null,
+        "change_reason": "Password reset via email token",
+        "inserted_on": "2026-07-06T07:48:19.753Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 6,
+    "fields": {
+        "employee": 1,
+        "table_name": "Client",
+        "record_id": 3,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 3,
+            "name": "BMK",
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-07T07:35:29.973Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 7,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 3,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 3,
+            "employee": 6,
+            "client": 3,
+            "role": "employee",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-07T07:35:56.927Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 8,
+    "fields": {
+        "employee": 1,
+        "table_name": "Project",
+        "record_id": 4,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 4,
+            "client": 3,
+            "name": "Triumph",
+            "code": "A",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-07T07:39:29.151Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 9,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 4,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 4,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Production work Completed",
+            "total_hours": "3.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-07T07:46:19.727Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 10,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 4,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 4,
+            "employee": 2,
+            "client": 3,
+            "role": "team_lead",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-07T08:00:24.819Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 11,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 5,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 5,
+            "employee": 7,
+            "client": 3,
+            "role": "team_lead",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-07T10:37:51.355Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 12,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 5,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 5,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "leave",
+            "description": "I am on Leave !",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-07T10:40:13.806Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 13,
+    "fields": {
+        "employee": 1,
+        "table_name": "Client",
+        "record_id": 4,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 4,
+            "name": "EngagePEO",
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T09:24:09.128Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 14,
+    "fields": {
+        "employee": 1,
+        "table_name": "Client",
+        "record_id": 5,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 5,
+            "name": "Enru",
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T09:29:52.941Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 15,
+    "fields": {
+        "employee": 1,
+        "table_name": "Project",
+        "record_id": 5,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 5,
+            "client": 5,
+            "name": "EDW 2.0",
+            "code": "B",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T09:31:08.509Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 16,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 6,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 6,
+            "employee": 7,
+            "client": 5,
+            "role": "employee",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T09:32:38.239Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 17,
+    "fields": {
+        "employee": 1,
+        "table_name": "Project",
+        "record_id": 6,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 6,
+            "client": 5,
+            "name": "ETM Integration",
+            "code": "D",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T09:33:09.789Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 18,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 7,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 7,
+            "employee": 6,
+            "client": 5,
+            "role": "employee",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T10:45:10.769Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 19,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 6,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T10:59:29.558Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 20,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 6,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T10:59:49.853Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 21,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 6,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T10:59:55.665Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 22,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 6,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my taskcenconrb",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T10:59:59.595Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 23,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 7,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 7,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:38:35.333Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 24,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 8,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 8,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:38:36.556Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 25,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 9,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 9,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:38:37.421Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 26,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 10,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 10,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:38:45.161Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 27,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 11,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 11,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-06",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:38:46.909Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 28,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 12,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 12,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:38:49.002Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 29,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 13,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 13,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-08",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:38:55.801Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 30,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 14,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 14,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Made the workspace",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:39:28.584Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 31,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 15,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 15,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Made the pipeline",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:39:29.572Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 32,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 16,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 16,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:39:30.338Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 33,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 17,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 17,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "I made the pipeline",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:41:12.994Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 34,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 18,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 18,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Ran the pipeline",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:41:13.704Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 35,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 19,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 19,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:41:14.780Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 36,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 20,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 20,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Pipeline is ready",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:41:16.642Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 37,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 17,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 17,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "I made the pipeline",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 17,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "I made the pipeline",
+            "total_hours": "5.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:42:45.822Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 38,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 18,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 18,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Ran the pipeline",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 18,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Ran the pipeline",
+            "total_hours": "4.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:42:46.827Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 39,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 20,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 20,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Pipeline is ready",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 20,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Pipeline is ready",
+            "total_hours": "3.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:42:48.752Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 40,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 4,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 4,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Production work Completed",
+            "total_hours": "3.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 4,
+            "employee": 6,
+            "client": 3,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Production work Completed",
+            "total_hours": "2.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:42:51.586Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 41,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 21,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 21,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "ABX",
+            "total_hours": "6.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:43:27.960Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 42,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 22,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 22,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "XYz",
+            "total_hours": "6.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:43:29.237Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 43,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 23,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 23,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Run the pipeline",
+            "total_hours": "9.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:43:30.304Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 44,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 6,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my taskcenconrb",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 6,
+            "employee": 6,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my taskcenconrb",
+            "total_hours": "7.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:43:31.558Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 45,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 24,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 24,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-06",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "",
+            "total_hours": "3.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:44:04.556Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 46,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 14,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 14,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Made the workspace",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 14,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Made the workspace",
+            "total_hours": "3.50",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:44:05.562Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 47,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 15,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 15,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Made the pipeline",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 15,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Made the pipeline",
+            "total_hours": "4.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:44:07.051Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 48,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 16,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 16,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 16,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "5.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:44:08.166Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 49,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 24,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 24,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-06",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "",
+            "total_hours": "3.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 24,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-06",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed the sql Queries",
+            "total_hours": "3.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T12:44:27.765Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 50,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 9,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 9,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 9,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-02",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "6.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:06:53.227Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 51,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 8,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 8,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 8,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "6.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:06:54.583Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 52,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 7,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 7,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 7,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "9.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:06:55.736Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 53,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 10,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 10,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 10,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-05",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "8.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:07:02.173Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 54,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 11,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 11,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-06",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 11,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-06",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "8.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:07:06.690Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 55,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 12,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 12,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 12,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "6.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:07:12.714Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 56,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 13,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 13,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-08",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 13,
+            "employee": 7,
+            "client": 5,
+            "date": "2026-07-08",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "8.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:07:18.534Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 57,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 8,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 8,
+            "employee": 7,
+            "client": 4,
+            "role": "employee",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:19:01.596Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 58,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 9,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 9,
+            "employee": 13,
+            "client": 5,
+            "role": "employee",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T13:26:35.344Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 59,
+    "fields": {
+        "employee": 1,
+        "table_name": "Project",
+        "record_id": 7,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 7,
+            "client": 3,
+            "name": "Atlas",
+            "code": "ATLAS-A",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T18:54:15.563Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 60,
+    "fields": {
+        "employee": 1,
+        "table_name": "Project",
+        "record_id": 5,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 5,
+            "client": 5,
+            "name": "EDW 2.0",
+            "code": "B",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 5,
+            "client": 5,
+            "name": "EDW 2.0",
+            "code": "EDW",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": 1
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T18:54:31.856Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 61,
+    "fields": {
+        "employee": 1,
+        "table_name": "Project",
+        "record_id": 6,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 6,
+            "client": 5,
+            "name": "ETM Integration",
+            "code": "D",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 6,
+            "client": 5,
+            "name": "ETM Integration",
+            "code": "ETM",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": 1
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T18:54:43.017Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 62,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 10,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 10,
+            "employee": 13,
+            "client": 3,
+            "role": "employee",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T18:55:03.473Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 63,
+    "fields": {
+        "employee": 13,
+        "table_name": "TimesheetEntry",
+        "record_id": 25,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 25,
+            "employee": 13,
+            "client": 3,
+            "date": "2026-07-08",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed the view and ran the pipeline",
+            "total_hours": "8.00",
+            "is_deleted": false,
+            "inserted_by": 13,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T18:56:16.642Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 64,
+    "fields": {
+        "employee": 2,
+        "table_name": "ClientEmployee",
+        "record_id": 11,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 11,
+            "employee": 13,
+            "client": 1,
+            "role": "employee",
+            "added_by": 2,
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T19:00:14.934Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 65,
+    "fields": {
+        "employee": 13,
+        "table_name": "TimesheetEntry",
+        "record_id": 26,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 26,
+            "employee": 13,
+            "client": 1,
+            "date": "2026-06-30",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 6,
+            "status": "present",
+            "description": "Completed Requirement of the sp",
+            "total_hours": "8.00",
+            "is_deleted": false,
+            "inserted_by": 13,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T19:01:26.522Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 66,
+    "fields": {
+        "employee": 13,
+        "table_name": "TimesheetEntry",
+        "record_id": 27,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 27,
+            "employee": 13,
+            "client": 1,
+            "date": "2026-07-08",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed the task",
+            "total_hours": "8.00",
+            "is_deleted": false,
+            "inserted_by": 13,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-08T19:02:53.997Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 67,
+    "fields": {
+        "employee": 1,
+        "table_name": "Project",
+        "record_id": 4,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 4,
+            "client": 3,
+            "name": "Triumph",
+            "code": "A",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 4,
+            "client": 3,
+            "name": "Triumph",
+            "code": "T",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": 1
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T07:32:01.829Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 68,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 12,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 12,
+            "employee": 2,
+            "client": 4,
+            "role": "team_lead",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T07:50:18.335Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 69,
+    "fields": {
+        "employee": 2,
+        "table_name": "Project",
+        "record_id": 8,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 8,
+            "client": 4,
+            "name": "EngagePEO",
+            "code": "UTILITY",
+            "description": "",
+            "is_active": true,
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T08:20:29.579Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 70,
+    "fields": {
+        "employee": 2,
+        "table_name": "ClientEmployee",
+        "record_id": 13,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 13,
+            "employee": 6,
+            "client": 4,
+            "role": "employee",
+            "added_by": 2,
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T08:20:49.506Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 71,
+    "fields": {
+        "employee": 6,
+        "table_name": "TimesheetEntry",
+        "record_id": 28,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 28,
+            "employee": 6,
+            "client": 4,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed The Utility task",
+            "total_hours": "5.00",
+            "is_deleted": false,
+            "inserted_by": 6,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T08:21:31.883Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 72,
+    "fields": {
+        "employee": 1,
+        "table_name": "ClientEmployee",
+        "record_id": 14,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 14,
+            "employee": 14,
+            "client": 5,
+            "role": "employee",
+            "added_by": 1,
+            "is_deleted": false,
+            "inserted_by": 1,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T09:21:36.724Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 73,
+    "fields": {
+        "employee": 14,
+        "table_name": "TimesheetEntry",
+        "record_id": 29,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 29,
+            "employee": 14,
+            "client": 5,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "8.00",
+            "is_deleted": false,
+            "inserted_by": 14,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T09:22:38.262Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 74,
+    "fields": {
+        "employee": 13,
+        "table_name": "TimesheetEntry",
+        "record_id": 30,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 30,
+            "employee": 13,
+            "client": 5,
+            "date": "2026-07-01",
+            "year": 2026,
+            "week_number": 27,
+            "month_number": 7,
+            "status": "present",
+            "description": "",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 13,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T09:36:51.642Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 75,
+    "fields": {
+        "employee": 14,
+        "table_name": "TimesheetEntry",
+        "record_id": 31,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 31,
+            "employee": 14,
+            "client": 5,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 14,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:00:21.303Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 76,
+    "fields": {
+        "employee": 14,
+        "table_name": "TimesheetEntry",
+        "record_id": 31,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 31,
+            "employee": 14,
+            "client": 5,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 14,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 31,
+            "employee": 14,
+            "client": 5,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "3.00",
+            "is_deleted": false,
+            "inserted_by": 14,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:00:25.579Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 77,
+    "fields": {
+        "employee": 14,
+        "table_name": "TimesheetEntry",
+        "record_id": 31,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 31,
+            "employee": 14,
+            "client": 5,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "3.00",
+            "is_deleted": false,
+            "inserted_by": 14,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 31,
+            "employee": 14,
+            "client": 5,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Completed my task",
+            "total_hours": "8.00",
+            "is_deleted": false,
+            "inserted_by": 14,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:12:22.562Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 78,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 32,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 32,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "leave",
+            "description": "",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:31:29.664Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 79,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 32,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 32,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "leave",
+            "description": "",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 32,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "holiday",
+            "description": "",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:31:38.004Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 80,
+    "fields": {
+        "employee": 7,
+        "table_name": "TimesheetEntry",
+        "record_id": 32,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 32,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "holiday",
+            "description": "",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 32,
+            "employee": 7,
+            "client": 3,
+            "date": "2026-07-07",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 7,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:31:41.846Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 81,
+    "fields": {
+        "employee": 2,
+        "table_name": "TimesheetEntry",
+        "record_id": 33,
+        "action_type": "CREATE",
+        "old_data": null,
+        "new_data": {
+            "id": 33,
+            "employee": 2,
+            "client": 1,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Complete",
+            "total_hours": "5.00",
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:43:51.620Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 82,
+    "fields": {
+        "employee": 2,
+        "table_name": "TimesheetEntry",
+        "record_id": 33,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 33,
+            "employee": 2,
+            "client": 1,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "present",
+            "description": "Complete",
+            "total_hours": "5.00",
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 33,
+            "employee": 2,
+            "client": 1,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "leave",
+            "description": "",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:44:03.392Z"
+    }
+},
+{
+    "model": "core.auditlog",
+    "pk": 83,
+    "fields": {
+        "employee": 2,
+        "table_name": "TimesheetEntry",
+        "record_id": 33,
+        "action_type": "UPDATE",
+        "old_data": {
+            "id": 33,
+            "employee": 2,
+            "client": 1,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "leave",
+            "description": "",
+            "total_hours": "0.00",
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "new_data": {
+            "id": 33,
+            "employee": 2,
+            "client": 1,
+            "date": "2026-07-09",
+            "year": 2026,
+            "week_number": 28,
+            "month_number": 7,
+            "status": "holiday",
+            "description": "",
+            "total_hours": 0,
+            "is_deleted": false,
+            "inserted_by": 2,
+            "updated_by": null
+        },
+        "change_reason": "",
+        "inserted_on": "2026-07-09T10:44:09.580Z"
+    }
+}
+]
