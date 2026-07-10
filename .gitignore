@@ -1,24 +1,24 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# Backend exclusions
+backend/venv/
+backend/env/
+backend/ENV/
+backend/.venv/
+backend/.env
+backend/db.sqlite3
+backend/db.sqlite3-journal
+backend/*.log
+backend/server_run.log
+backend/__pycache__/
+backend/**/*.py[cod]
 
-# Virtual environments
-venv/
-env/
-ENV/
-.venv/
-
-# Environment variables (Sensitive credentials)
-.env
-
-# Databases
-db.sqlite3
-db.sqlite3-journal
-
-# Logs
-*.log
-server_run.log
+# Frontend exclusions
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
 
 # OS-generated files
 .DS_Store
